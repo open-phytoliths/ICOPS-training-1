@@ -1,4 +1,4 @@
-# Add your name under the session 2 below
+# Add your name under session 2 below
 
 ## Session 1 - Basic Github - 11 February 2022
 ### Session organisers:
