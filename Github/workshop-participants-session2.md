@@ -8,12 +8,24 @@
  
 
 ## Session participants - 9am to 11am UTC
-
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 ## Session participants - 2pm - 4pm UTC
-
-
-
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
