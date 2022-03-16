@@ -1,5 +1,3 @@
-# Add your name under session 2 below
-
 ## Session 1 - Basic Github - 11 February 2022
 ### Session organisers:
 * Emma Karoune, The Alan Turing Institute, EKaroune, ekaroune, she/her.
