@@ -8,7 +8,7 @@
  
 
 ## Session participants - 9am to 11am UTC
-* Javier Sopesens, IPHES-CERCA, jsopesens, @JaviSopesens, he/him
+* Javier Sopesens, jsopesens
 *
 *
 *
