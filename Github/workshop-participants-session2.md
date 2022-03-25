@@ -21,7 +21,7 @@
 
 
 ## Session participants - 2pm - 4pm UTC
-*
+* Agustina Scaro, AguScaro, I find the programming aspect of GitHub challenging. 
 *
 *
 *
