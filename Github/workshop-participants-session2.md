@@ -10,7 +10,7 @@
 ## Session participants - 9am to 11am UTC
 * Javier Sopesens, jsopesens
 * Niklas Hausmann, Niklas-palaeo,, simply getting used to it is challenging enough!
-*
+* 
 *
 *
 *
@@ -21,7 +21,7 @@
 
 
 ## Session participants - 2pm - 4pm UTC
-*
+* Caroline Strömberg, University of Washington. Seattle, WA, USA
 *
 *
 *
