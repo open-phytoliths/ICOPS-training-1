@@ -9,7 +9,7 @@
 
 ## Session participants - 9am to 11am UTC
 * Javier Sopesens, jsopesens
-* Niklas Hausmann, Niklas-palaeo, simply getting used to it is challenging enough!
+* Niklas Hausmann, Niklas-palaeo,, simply getting used to it is challenging enough!
 *
 *
 *
