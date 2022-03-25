@@ -21,7 +21,7 @@
 
 
 ## Session participants - 2pm - 4pm UTC
-*
+* Sarah Elliott, Bournemouth University
 *
 *
 *
