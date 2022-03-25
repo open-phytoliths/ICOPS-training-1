@@ -35,7 +35,7 @@
 Name, Github name, what specific aspect of Github do you find challenging?
 
 ## Session participants - 9am to 11am UTC
-
+Maria Gabriela Musaubach, GabiMusaubach, there are a lot of places to click!!! La cantidad de lugares que hay para cosas.
 
 
 
