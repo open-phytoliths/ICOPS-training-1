@@ -21,7 +21,7 @@
 
 
 ## Session participants - 2pm - 4pm UTC
-*
+* Rosalie Hermans, roherman1, the coding aspects seem challenging!!
 *
 *
 *
