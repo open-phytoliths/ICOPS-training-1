@@ -1,5 +1,7 @@
 # ICOPS training 2022
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6418974.svg)](https://doi.org/10.5281/zenodo.6418974)
+
 Here you will find all of the training resources used in the training session of the International Committee on Open Phytolith Science.
 
 * [Github training resources](https://github.com/open-phytoliths/ICOPS-training-2022/tree/main/Github)
