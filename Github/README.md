@@ -2,7 +2,7 @@
 
 Here are all of the training materials for the Github training sessions.
 
-## Session 1 - Basic Github
+## Session 1 - Github Basics
 ### Learning outcomes
     * To list some examples of use of Github.
     * To be able to navigate the Github interface.
