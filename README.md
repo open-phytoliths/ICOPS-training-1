@@ -1,4 +1,4 @@
-# ICOPS training 2022
+# International Committee on Open Phytolith Science (ICOPS) training resources 2022
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6418974.svg)](https://doi.org/10.5281/zenodo.6418974)
 
