@@ -10,6 +10,10 @@ authors:
   given-names: Celine
   affiliation: Universitat Pompeu Fabra
   orcid: 'https://orcid.org/0000-0002-4297-5469'
+- family-names: Ruiz-Pérez 
+  given-names: Javier
+  affiliation: Texas A & M University
+  orcid: 'https://orcid.org/0000-0001-8593-7393'  
 title: International Committee on Open Phytolith Science Training Resources
 version: 2.0.0
 doi: 10.5281/zenodo.6418974
