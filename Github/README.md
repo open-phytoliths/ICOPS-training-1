@@ -10,7 +10,7 @@ Here are all of the training materials for the Github training sessions.
     * To start using markdown script. 
 
 * [Link to slide](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-02-11_Session-1-GitHub-Basic-Intro.pdf)
-* [Shared document with practice exercise instructions]() 
+* [Shared document](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/Github-session-1-shared-dcoument.md) 
 * Link to video - [YouTube link](https://www.youtube.com/watch?v=uVsYTv4CG14)
 
 
