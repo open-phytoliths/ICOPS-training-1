@@ -19,6 +19,7 @@ Here are all of the training materials for the Github training sessions.
     * To start using a collaborative workflow in Github.
 
 * [Link to slide](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-03-25_Session-2-Collaboration-with-GitHub.pdf) 
+* [Shared document with practice exercise instructions in English and Spanish]()
 * Links to videos 
    * [part 1 version control](https://www.youtube.com/watch?v=QFNts5RJ0sM)
    * [part 2 branching and forking](https://www.youtube.com/watch?v=EjUMKh-pE3A)
@@ -33,7 +34,7 @@ Here are all of the training materials for the Github training sessions.
       * To know how to use project boards.
 
 * [Link to slides](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-04-22_Session-3-Further-uses-of-GitHub.pdf)
-* [Shared document with practice exercise instructions]()
+* [Shared document with practice exercise instructions in English and Spanish](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/Github-session-3-shared-document.md.md)
 * Link to video - being uploaded!
 
 
