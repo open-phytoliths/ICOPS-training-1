@@ -28,14 +28,12 @@ Here are all of the training materials for the Github training sessions.
 
 ## Session 3 - Further uses with Github
 ### Learning outcomes
-   * To know how to enable and edit repos for web pages.
-   * To know how to link repositories to Github.
-   * To know how to use project boards.
+      * To know how to enable and edit repos for web pages.
+      * To know how to link repositories to Github.
+      * To know how to use project boards.
 
-
-      * Link to slides
-      * Link to video - being uploaded!
-
+* Link to slides
+* Link to video - being uploaded!
 
 
 
