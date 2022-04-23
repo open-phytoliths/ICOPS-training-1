@@ -11,9 +11,9 @@ authors:
   affiliation: Universitat Pompeu Fabra
   orcid: 'https://orcid.org/0000-0002-4297-5469'
 title: International Committee on Open Phytolith Science Training Resources
-version: 1.0.0
+version: 2.0.0
 doi: 10.5281/zenodo.1234
-date-released: 2022-04-06
+date-released: 2022-04-22
 url: "https://github.com/open-phytoliths/ICOPS-training-2022"
 abstract: >-
   This is an archive of the repository of training material from workshops and other training events organised and run by the International Committee on Open Phytolith Science. 
