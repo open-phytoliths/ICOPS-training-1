@@ -32,7 +32,8 @@ Here are all of the training materials for the Github training sessions.
       * To know how to link repositories to Github.
       * To know how to use project boards.
 
-* Link to slides
+* [Link to slides](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-04-22_Session-3-Further-uses-of-GitHub.pdf)
+* [Shared document with practice exercise instructions]()
 * Link to video - being uploaded!
 
 
