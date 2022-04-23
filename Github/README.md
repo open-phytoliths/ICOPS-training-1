@@ -9,7 +9,8 @@ Here are all of the training materials for the Github training sessions.
     * To set up a personal repository.
     * To start using markdown script. 
 
-* [Link to slide](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-02-11_Session-1-GitHub-Basic-Intro.pdf) 
+* [Link to slide](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-02-11_Session-1-GitHub-Basic-Intro.pdf)
+* [Shared document with practice exercise instructions]() 
 * Link to video - [YouTube link](https://www.youtube.com/watch?v=uVsYTv4CG14)
 
 
@@ -19,7 +20,7 @@ Here are all of the training materials for the Github training sessions.
     * To start using a collaborative workflow in Github.
 
 * [Link to slide](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/2022-03-25_Session-2-Collaboration-with-GitHub.pdf) 
-* [Shared document with practice exercise instructions in English and Spanish]()
+* [Shared document with practice exercise instructions in English and Spanish](https://github.com/open-phytoliths/ICOPS-training-2022/blob/main/Github/Github-session-2-shared-document.md)
 * Links to videos 
    * [part 1 version control](https://www.youtube.com/watch?v=QFNts5RJ0sM)
    * [part 2 branching and forking](https://www.youtube.com/watch?v=EjUMKh-pE3A)
