@@ -8,7 +8,7 @@ Thank you for joining the ICOPS Github Training Session!
 We're delighted to have you here.
 
 **How?** **Join Zoom Meeting**
-:video_camera: Zoom link: https://turing-uk.zoom.us/j/99312851758?pwd=VFZoUUE5UzZZZEl0WHZjSmxYUEZtdz09
+:video_camera: Zoom link:
 
 ==*The waiting room is enabled. The host of this call will let you in.*==
 
