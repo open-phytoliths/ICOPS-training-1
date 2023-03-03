@@ -1,4 +1,4 @@
-# International Committee on Open Phytolith Science (ICOPS) training resources 2022
+# International Committee on Open Phytolith Science (ICOPS) training resources
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6418974.svg)](https://doi.org/10.5281/zenodo.6418974)
 
@@ -8,7 +8,9 @@ Here you will find all of the training resources used in the training session of
   * Session 1 - Basic Github - slides and video link
   * Session 2 - Collaboration with Github - slides and video link 
   * Session 3 - Further uses of Github - happening on 22 April 2022. 
-
+* [Open access publishing]()
+ * Slides
+ * Shared document
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
