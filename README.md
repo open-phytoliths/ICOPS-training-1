@@ -9,8 +9,8 @@ Here you will find all of the training resources used in the training session of
   * Session 2 - Collaboration with Github - slides and video link 
   * Session 3 - Further uses of Github - happening on 22 April 2022. 
 * [Open access publishing]()
- * Slides
- * Shared document
+  * Slides
+  * Shared document
 
 
 ## Funding
