@@ -12,6 +12,13 @@ Here you will find all of the training resources used in the training session of
  * Slides
  * Shared document
 
+
+## Funding
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824087. 
+
+![EOSC life]()
+
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -23,3 +30,4 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
