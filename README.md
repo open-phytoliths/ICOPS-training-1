@@ -15,7 +15,7 @@ Here you will find all of the training resources used in the training session of
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 824087. 
 
-![EOSC life]()
+![EOSC life](https://github.com/open-phytoliths/ICOPS-training/blob/main/eosc-life.jpg)
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
