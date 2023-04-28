@@ -8,7 +8,7 @@
 
 ## Session participants 2023
 
-*
+* Emma Karoune, EKaroune, all the weird terms the use!
 *
 *
 *
