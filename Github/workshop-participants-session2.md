@@ -5,7 +5,17 @@
 * Celine Kerfant, Universitat Pompeu Fabra, Cel31, she/her.
 
 ## Add your Name, Github name, what specific aspect of Github do you find challenging?
- 
+
+## Session participants 2023
+
+*
+*
+*
+*
+*
+*
+*
+*
 
 ## Session participants - 9am to 11am UTC
 * Javier Sopesens, jsopesens
